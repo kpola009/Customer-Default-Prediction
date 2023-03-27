@@ -1,3 +1,5 @@
+# Customer Default Prediction
+
 The Goal of this project is to predict how likely a customer is going to default, using historical customer data, This project can be identified as binary classification problem, which was solved using Logistic Regression and Random Forest.
 
 ## Introduction
